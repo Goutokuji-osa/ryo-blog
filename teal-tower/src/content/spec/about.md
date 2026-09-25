@@ -1,9 +1,11 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+這裡是 **伊吹涼（Ibuki Ryo）** 的個人博客。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+> ### 關於我
+> - 中國高中生，2027年高考
+> - 專業方向：計算機嵌入式
+> - 理想：京都大學
+> - 興趣：東方 Project、kaiwai、海鮮市場曲風、FL Studio 編曲
+> - 語言：現代日語（N5 在學）、古典日語（計劃中）、英語（高考）
+
