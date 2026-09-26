@@ -8,8 +8,8 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "伊吹涼抄",
-	subtitle: "伊吹涼 / 豪德寺緒冴のブログ",
+	title: "涼冴抄",
+	subtitle: "伊吹 涼冴のブログ",
 	lang: "zh_CN", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 200, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -59,8 +59,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/my-avater.jpeg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "伊吹凉",
-	bio: "伊吹涼です。界隈、日本語、古典日本語、計算機の愛好家です。ようこそ",
+	name: "伊吹 涼冴",
+	bio: "伊吹 涼冴（いぶき りょうさえ）です。界隈、日本語、古典日本語、計算機の愛好家です。ようこそ",
 	links: [
 		{
 			name: "GitHub",
